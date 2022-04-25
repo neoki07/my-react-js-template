@@ -1,4 +1,4 @@
-# Reactテンプレート（Javascript）
+# Reactテンプレート（JavaScript）
 
 自分用のReactアプリ開発テンプレートです。
 
